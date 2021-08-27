@@ -122,10 +122,10 @@ header img {
     background-position: center;
 }
 .google{
-    background-image: url(./imagenes\ proyecto/icons8-google-plus-50.png);
+    background-image: url(/assets/icons8-google-plus-50.png);
 }
 .facebook{
-    background-image: url(./imagenes\ proyecto/icons8-facebook-50.png);
+    background-image: url(/assets/icons8-facebook-50.png);
 }
 /* seccion de registro */
 .login-container-registrer{
