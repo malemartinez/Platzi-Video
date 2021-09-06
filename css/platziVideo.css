@@ -214,10 +214,10 @@ header img {
     background-size: contain;
 }
 .play{
-    background-image: url(./imagenes\ proyecto/icons8-play-64.png);
+    background-image: url(/assets/icons8-play-64.png);
 }
 .plus{
-    background-image: url(./imagenes\ proyecto/icons8-plus-64.png);
+    background-image: url(/assets/icons8-plus-64.png);
 }
 
 /* footer */
